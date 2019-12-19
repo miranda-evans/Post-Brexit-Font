@@ -20,6 +20,13 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Post-Brexit would like free movement within your Photo Library.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Post-BrexitEU.otf</string>
+		<string>Post-BrexitUK.otf</string>
+	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
@@ -50,8 +57,6 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
@@ -60,12 +65,5 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>UIAppFonts</key>
-	<array>
-		<string>Post-BrexitEU.otf</string>
-		<string>Post-BrexitUK.otf</string>
-	</array>
-	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Post-Brexit would like free movement within your Photo Library.</string>
 </dict>
 </plist>
