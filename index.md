@@ -19,3 +19,13 @@ G█t Br█xit Don█
 Don’t worry though because you can still say : 
 
 Boris Johnson is a dick.
+
+
+
+Want to mess about with the font?
+
+
+Install it from the project [here](https://github.com/miranda-evans/Post-Brexit-Fonts)
+
+
+Or try the iOS app [here](https://testflight.apple.com/join/yWnHlMQ7)
